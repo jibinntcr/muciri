@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Travel HTML-5 Template </title>
+    <title>Muciri Village</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="manifest" href="site.webmanifest">
@@ -46,8 +46,7 @@
         <div class="slider-area ">
             <!-- Mobile Menu -->
             <div class="slider-active">
-                <div class="single-slider hero-overly  slider-height d-flex align-items-center"
-                    data-background="assets/img/hero/h1_hero.jpg">
+                <div class="single-slider hero-overly  slider-height d-flex align-items-center" data-background="assets/img/hero/h1_hero.jpg">
                     <div class="container">
                         <div class="row">
                             <div class="col-xl-9 col-lg-9 col-md-9">
@@ -319,8 +318,7 @@
                     <div class="col-xl-12">
                         <div class="video-caption text-center">
                             <div class="video-icon">
-                                <a class="popup-video" href="https://www.youtube.com/watch?v=1aP-TXUpNoU"
-                                    tabindex="0"><i class="fas fa-play"></i></a>
+                                <a class="popup-video" href="https://www.youtube.com/watch?v=1aP-TXUpNoU" tabindex="0"><i class="fas fa-play"></i></a>
                             </div>
                             <p class="pera1">Love where you're going in the perfect time</p>
                             <p class="pera2">Tripo is a World Leading Online</p>
