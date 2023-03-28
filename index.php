@@ -132,16 +132,31 @@
                         <div class="right-caption">
                             <!-- Section Tittle -->
                             <div class="section-tittle section-tittle2">
-                                <span>About Our Company</span>
-                                <h2>We are Go Trip <br />Ravels Support Company</h2>
+                                <span>Muciri Village</span>
+                                <h2>The origin of Indian trade culture</h2>
                             </div>
                             <div class="support-caption">
-                                <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-                                    sed do eiusmod tempor incididunt ut labore et dolore magna
-                                    aliqua. Ut enim ad minim veniam, quis nostrud
+                                <p style="text-align: justify;">
+                                    The history of Indian trade culture is fascinating and ancient, dating back to AD
+                                    and BC. The Muciris were a South Indian tribe known for their seafaring and trade
+                                    activities, particularly in the spice trade. They helped to establish India's
+                                    reputation as a land of exotic spices and textiles. The spice trade, which began in
+                                    the first century AD, introduced Indian spices and textiles to the rest of the
+                                    world, influencing global culture and economy. The Romans, Greeks, and Egyptians
+                                    were among the first groups to trade with India, and the trade routes that developed
+                                    during this time period played an important role in shaping both Indian and global
+                                    culture. Another important trade route that helped spread Indian culture and trade
+                                    across Asia and Europe was the Silk Road, which connected India with China and other
+                                    parts of Asia. With the rise of the Maurya Empire in 322 BC, a vast network of trade
+                                    routes connecting India to the rest of the world was established.The Gupta Empire,
+                                    which lasted from 320 to 550 AD, was another significant empire that saw the
+                                    development of art, science, and literature while also contributing to the expansion
+                                    of India's trade and cultural influence. Overall, Indian trade culture has a long
+                                    and rich history that has significantly influenced global trade and culture, with
+                                    the Muciris playing an important role in establishing India's reputation as a land
+                                    of exotic spices and textiles.
                                 </p>
-                                <div class="select-suport-items">
+                                <!-- <div class="select-suport-items">
                                     <label class="single-items">Lorem ipsum dolor sit amet
                                         <input type="checkbox" checked="checked active" />
                                         <span class="checkmark"></span>
@@ -158,8 +173,8 @@
                                         <input type="checkbox" checked="checked active" />
                                         <span class="checkmark"></span>
                                     </label>
-                                </div>
-                                <a href="#" class="btn border-btn">Search</a>
+                                </div> -->
+                                <!-- <a href="#" class="btn border-btn">Search</a> -->
                             </div>
                         </div>
                     </div>
@@ -168,7 +183,158 @@
         </div>
         <!-- about end  -->
 
+        <!-- ABOUT 2 START -->
 
+
+        <div class="support-company-area fix">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-xl-6 col-lg-6">
+                        <div class="section-tittle section-tittle2">
+                            <span>Muciri Village</span>
+                            <h2>Trade capital</h2>
+                        </div>
+                        <div class="support-caption">
+                            <p style="text-align: justify;">
+                                The trade corridor from North India to South India was a major hub of commerce and
+                                cultural exchange during the first century, with the Muciris playing a key role in its
+                                development. The Muciris were a South Indian seafaring tribe known for their trade
+                                activities, particularly in the spice trade. They established trade relations with the
+                                Roman Empire and were instrumental in the spice trade, which brought Indian spices to
+                                the rest of the world. The trade corridor connected the Gangetic plain in the north to
+                                the Coromandel Coast in the south, and it was used to transport goods such as textiles,
+                                spices, and precious metals. The Coromandel Coast's port cities, such as Kaveripattinam
+                                and Arikamedu, were important trade corridor hubs with thriving maritime trade. The
+                                Mauryan Empire, which ruled from 322 BC to 185 BC, was instrumental in the development
+                                of the trade corridor by laying out a network of roads and trade routes throughout
+                                India. The trade corridor also aided in the spread of Buddhism and Hinduism throughout
+                                the subcontinent. The Gupta Empire, which lasted from 320 to 550 AD, strengthened the
+                                trade corridor while also fostering the advancement of art, science, and literature.
+                                Overall, during the first century, the trade corridor from North India to South India
+                                played an important role in promoting trade, cultural exchange, and the spread of
+                                religion and ideas across the subcontinent, with the Muciris playing a critical role in
+                                establishing India's reputation as a land of exotic spices and textiles.
+                            </p>
+                            <p style="text-align: justify; color: red;">(Muziris' port was strategically located on the
+                                route
+                                connecting the Red Sea, Mediterranean, and Indian Oceans, making it an important hub for
+                                maritime trade between the East and West. Trade relations were known to have existed
+                                between the city and ancient Rome, Egypt, Greece, and the Middle East.
+
+                                Pliny the Elder, a Roman historian who lived in the first century CE, described Muziris
+                                as "the first emporium of India," noting that Roman traders would sail to Muziris to
+                                trade for spices and other goods. Muziris is mentioned as a major trading center in the
+                                Periplus of the Erythraean Sea, a Greek navigation manual from the first century CE.)
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-xl-6 col-lg-6">
+                        <div class="right-caption">
+                            <!-- Section Tittle -->
+
+                            <div class="support-location-img mb-50">
+                                <img src="assets/img/service/support-img.jpg" alt="" />
+                                <div class="support-img-cap">
+                                    <span>Since 1992</span>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- ABOUT 2 END -->
+
+        <!-- ABOUT 3 START -->
+        <div class="support-company-area servic-padding fix">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-xl-6 col-lg-6">
+                        <div class="support-location-img mb-50">
+                            <img src="assets/img/service/support-img.jpg" alt="" />
+                            <div class="support-img-cap">
+                                <span>Since 1992</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-6 col-lg-6">
+                        <div class="right-caption">
+                            <!-- Section Tittle -->
+                            <div class="section-tittle section-tittle2">
+                                <span>Muciri Village</span>
+                                <h2>Gandhian thought of village development</h2>
+                            </div>
+                            <div class="support-caption">
+                                <p style="text-align: justify;">
+                                    Gandhian village development thinking is based on the belief that rural communities
+                                    are the foundation of a healthy society. According to Gandhi, the village is a
+                                    self-sufficient unit capable of meeting its inhabitants' basic needs through local
+                                    resources and community cooperation. He advocated for the transfer of power and
+                                    resources from urban areas to villages, promoting a model of sustainable and
+                                    equitable development that would ensure the well-being of all members of society.
+                                    Gandhi believed that rural development should be based on nonviolence,
+                                    self-reliance, and respect for nature, emphasizing the importance of agriculture,
+                                    handicrafts, and other traditional practices as a source of income. His vision of
+                                    village development centered on empowering local communities to take control of
+                                    their own fates, fostering a sense of collective responsibility and cooperation that
+                                    would aid in the construction of a stronger, more resilient society.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- ABOUT 3 END  -->
+
+        <!-- ABOUT 4 START -->
+
+        <div class="support-company-area fix">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-xl-6 col-lg-6">
+                        <div class="section-tittle section-tittle2">
+                            <span>Muciri Village</span>
+                            <h2>World in 21rst century </h2>
+                        </div>
+                        <div class="support-caption">
+                            <p style="text-align: justify;">
+                                The twenty-first century has seen unprecedented levels of globalization, resulting in a
+                                significant shift in the global economy and cultural landscape. Technology and
+                                transportation advancements have made it easier than ever to connect with people and
+                                markets all over the world, resulting in a significant increase in international trade
+                                and cultural exchange. As a result, many companies now operate on a global scale, with
+                                supply chains stretching across multiple countries and continents. Simultaneously,
+                                cultural barriers have been broken down, with people from various cultures and
+                                backgrounds sharing ideas, beliefs, and practices. However, this globalization has also
+                                resulted in a growing sense of cultural homogenization, with some concerned that
+                                distinct cultural traditions and identities are being lost in the face of a dominant
+                                global culture. Despite these challenges, the world in the twenty-first century is more
+                                interconnected than ever before, creating both opportunities and challenges.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-xl-6 col-lg-6">
+                        <div class="right-caption">
+                            <!-- Section Tittle -->
+
+                            <div class="support-location-img mb-50">
+                                <img src="assets/img/service/support-img.jpg" alt="" />
+                                <div class="support-img-cap">
+                                    <span>Since 1992</span>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- ABOUT 4 END -->
+        <!-- ABOUT 5 START -->
+        <!-- ABOUT 5 END -->
 
 
 
