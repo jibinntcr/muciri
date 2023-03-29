@@ -241,7 +241,7 @@
 
 
                             <h5 class="mb-3">
-                                Muciri Cillage
+                                Muciri Village
                             </h5>
                             <h2 class="mb-2">About us</h2>
                             <p class="mb-0">
