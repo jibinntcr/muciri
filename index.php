@@ -29,8 +29,7 @@
                         <div id="hero-slide" class="carousel carousel-fade slide" data-bs-ride="carousel">
                             <div class="carousel-inner">
                                 <div class="carousel-item active">
-                                    <img src="images/slide/volunteer-helping-with-donation-box.jpg"
-                                        class="carousel-image img-fluid" alt="..." />
+                                    <img src="images/slide/volunteer-helping-with-donation-box.jpg" class="carousel-image img-fluid" alt="..." />
 
                                     <div class="carousel-caption d-flex flex-column justify-content-end">
                                         <a href="#">
@@ -43,8 +42,7 @@
                                 </div>
 
                                 <div class="carousel-item">
-                                    <img src="images/slide/volunteer-selecting-organizing-clothes-donations-charity.jpg"
-                                        class="carousel-image img-fluid" alt="..." />
+                                    <img src="images/slide/volunteer-selecting-organizing-clothes-donations-charity.jpg" class="carousel-image img-fluid" alt="..." />
 
                                     <div class="carousel-caption d-flex flex-column justify-content-end">
                                         <a href="#">
@@ -56,8 +54,7 @@
                                 </div>
 
                                 <div class="carousel-item">
-                                    <img src="images/slide/medium-shot-people-collecting-donations.jpg"
-                                        class="carousel-image img-fluid" alt="..." />
+                                    <img src="images/slide/medium-shot-people-collecting-donations.jpg" class="carousel-image img-fluid" alt="..." />
 
                                     <div class="carousel-caption d-flex flex-column justify-content-end">
                                         <a href="#">
@@ -68,8 +65,7 @@
                                     </div>
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="images/slide/volunteer-helping-with-donation-box.jpg"
-                                        class="carousel-image img-fluid" alt="..." />
+                                    <img src="images/slide/volunteer-helping-with-donation-box.jpg" class="carousel-image img-fluid" alt="..." />
 
                                     <div class="carousel-caption d-flex flex-column justify-content-end">
                                         <a href="#">
@@ -79,8 +75,7 @@
                                     </div>
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="images/slide/medium-shot-people-collecting-donations.jpg"
-                                        class="carousel-image img-fluid" alt="..." />
+                                    <img src="images/slide/medium-shot-people-collecting-donations.jpg" class="carousel-image img-fluid" alt="..." />
 
                                     <div class="carousel-caption d-flex flex-column justify-content-end">
                                         <a href="#">
@@ -90,8 +85,7 @@
                                     </div>
                                 </div>
                                 <div class="carousel-item">
-                                    < <img src="images/slide/volunteer-helping-with-donation-box.jpg"
-                                        class="carousel-image img-fluid" alt="..." />
+                                    < <img src="images/slide/volunteer-helping-with-donation-box.jpg" class="carousel-image img-fluid" alt="..." />
 
                                     <div class="carousel-caption d-flex flex-column justify-content-end">
                                         <a href="#">
@@ -101,8 +95,7 @@
                                     </div>
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="images/slide/medium-shot-people-collecting-donations.jpg"
-                                        class="carousel-image img-fluid" alt="..." />
+                                    <img src="images/slide/medium-shot-people-collecting-donations.jpg" class="carousel-image img-fluid" alt="..." />
 
                                     <div class="carousel-caption d-flex flex-column justify-content-end">
                                         <a href="#">
@@ -114,14 +107,12 @@
 
                             </div>
 
-                            <button class="carousel-control-prev" type="button" data-bs-target="#hero-slide"
-                                data-bs-slide="prev">
+                            <button class="carousel-control-prev" type="button" data-bs-target="#hero-slide" data-bs-slide="prev">
                                 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                                 <span class="visually-hidden">Previous</span>
                             </button>
 
-                            <button class="carousel-control-next" type="button" data-bs-target="#hero-slide"
-                                data-bs-slide="next">
+                            <button class="carousel-control-next" type="button" data-bs-target="#hero-slide" data-bs-slide="next">
                                 <span class="carousel-control-next-icon" aria-hidden="true"></span>
                                 <span class="visually-hidden">Next</span>
                             </button>
@@ -232,8 +223,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6 col-12 mb-5 mb-lg-0">
-                        <img src="images/group-people-volunteering-foodbank-poor-people.jpg"
-                            class="custom-text-box-image img-fluid" alt="" />
+                        <img src="images/group-people-volunteering-foodbank-poor-people.jpg" class="custom-text-box-image img-fluid" alt="" />
                     </div>
 
                     <div class="col-lg-6 col-12">
@@ -315,8 +305,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6 col-md-5 col-12">
-                        <img src="images/portrait-volunteer-who-organized-donations-charity.jpg"
-                            class="about-image ms-lg-auto bg-light shadow-lg img-fluid" alt="" />
+                        <img src="images/portrait-volunteer-who-organized-donations-charity.jpg" class="about-image ms-lg-auto bg-light shadow-lg img-fluid" alt="" />
                     </div>
 
                     <div class="col-lg-5 col-md-7 col-12">
@@ -384,8 +373,7 @@
 
                     <div class="col-lg-4 col-md-6 col-12 mb-4 mb-lg-0">
                         <div class="custom-block-wrap">
-                            <img src="images/causes/group-african-kids-paying-attention-class.jpg"
-                                class="custom-block-image img-fluid" alt="" />
+                            <img src="images/causes/group-african-kids-paying-attention-class.jpg" class="custom-block-image img-fluid" alt="" />
 
                             <div class="custom-block">
                                 <div class="custom-block-body">
@@ -421,8 +409,7 @@
 
                     <div class="col-lg-4 col-md-6 col-12 mb-4 mb-lg-0">
                         <div class="custom-block-wrap">
-                            <img src="images/causes/poor-child-landfill-looks-forward-with-hope.jpg"
-                                class="custom-block-image img-fluid" alt="" />
+                            <img src="images/causes/poor-child-landfill-looks-forward-with-hope.jpg" class="custom-block-image img-fluid" alt="" />
 
                             <div class="custom-block">
                                 <div class="custom-block-body">
@@ -458,8 +445,7 @@
 
                     <div class="col-lg-4 col-md-6 col-12">
                         <div class="custom-block-wrap">
-                            <img src="images/causes/african-woman-pouring-water-recipient-outdoors.jpg"
-                                class="custom-block-image img-fluid" alt="" />
+                            <img src="images/causes/african-woman-pouring-water-recipient-outdoors.jpg" class="custom-block-image img-fluid" alt="" />
 
                             <div class="custom-block">
                                 <div class="custom-block-body">
@@ -507,19 +493,15 @@
 
                             <div class="row">
                                 <div class="col-lg-6 col-12">
-                                    <input type="text" name="volunteer-name" id="volunteer-name" class="form-control"
-                                        placeholder="Jack Doe" required />
+                                    <input type="text" name="volunteer-name" id="volunteer-name" class="form-control" placeholder="Jack Doe" required />
                                 </div>
 
                                 <div class="col-lg-6 col-12">
-                                    <input type="email" name="volunteer-email" id="volunteer-email"
-                                        pattern="[^ @]*@[^ @]*" class="form-control" placeholder="Jackdoe@gmail.com"
-                                        required />
+                                    <input type="email" name="volunteer-email" id="volunteer-email" pattern="[^ @]*@[^ @]*" class="form-control" placeholder="Jackdoe@gmail.com" required />
                                 </div>
 
                                 <div class="col-lg-6 col-12">
-                                    <input type="text" name="volunteer-subject" id="volunteer-subject"
-                                        class="form-control" placeholder="Subject" required />
+                                    <input type="text" name="volunteer-subject" id="volunteer-subject" class="form-control" placeholder="Subject" required />
                                 </div>
 
                                 <div class="col-lg-6 col-12">
@@ -533,16 +515,14 @@
                                 </div>
                             </div>
 
-                            <textarea name="volunteer-message" rows="3" class="form-control" id="volunteer-message"
-                                placeholder="Comment (Optional)"></textarea>
+                            <textarea name="volunteer-message" rows="3" class="form-control" id="volunteer-message" placeholder="Comment (Optional)"></textarea>
 
                             <button type="submit" class="form-control">Submit</button>
                         </form>
                     </div>
 
                     <div class="col-lg-6 col-12">
-                        <img src="images/smiling-casual-woman-dressed-volunteer-t-shirt-with-badge.jpg"
-                            class="volunteer-image img-fluid" alt="" />
+                        <img src="images/smiling-casual-woman-dressed-volunteer-t-shirt-with-badge.jpg" class="volunteer-image img-fluid" alt="" />
 
                         <div class="custom-block-body text-center">
                             <h4 class="text-white mt-lg-3 mb-lg-3">About Volunteering</h4>
@@ -568,8 +548,7 @@
                         <div class="news-block">
                             <div class="news-block-top">
                                 <a href="news-detail.html">
-                                    <img src="images/news/medium-shot-volunteers-with-clothing-donations.jpg"
-                                        class="news-image img-fluid" alt="" />
+                                    <img src="images/news/medium-shot-volunteers-with-clothing-donations.jpg" class="news-image img-fluid" alt="" />
                                 </a>
 
                                 <div class="news-category-block">
@@ -692,8 +671,7 @@
                         <div class="news-block news-block-two-col d-flex mt-4">
                             <div class="news-block-two-col-image-wrap">
                                 <a href="news-detail.html">
-                                    <img src="images/news/africa-humanitarian-aid-doctor.jpg"
-                                        class="news-image img-fluid" alt="" />
+                                    <img src="images/news/africa-humanitarian-aid-doctor.jpg" class="news-image img-fluid" alt="" />
                                 </a>
                             </div>
 
@@ -716,8 +694,7 @@
                         <div class="news-block news-block-two-col d-flex mt-4">
                             <div class="news-block-two-col-image-wrap">
                                 <a href="news-detail.html">
-                                    <img src="images/news/close-up-happy-people-working-together.jpg"
-                                        class="news-image img-fluid" alt="" />
+                                    <img src="images/news/close-up-happy-people-working-together.jpg" class="news-image img-fluid" alt="" />
                                 </a>
                             </div>
 
@@ -741,8 +718,7 @@
                         <div class="news-block news-block-two-col d-flex mt-4">
                             <div class="news-block-two-col-image-wrap">
                                 <a href="news-detail.html">
-                                    <img src="images/news/close-up-happy-people-working-together.jpg"
-                                        class="news-image img-fluid" alt="" />
+                                    <img src="images/news/close-up-happy-people-working-together.jpg" class="news-image img-fluid" alt="" />
                                 </a>
                             </div>
 
@@ -883,23 +859,19 @@
 
                                 <ol class="carousel-indicators">
                                     <li data-bs-target="#testimonial-carousel" data-bs-slide-to="0" class="active">
-                                        <img src="images/avatar/portrait-beautiful-young-woman-standing-grey-wall.jpg"
-                                            class="img-fluid rounded-circle avatar-image" alt="avatar" />
+                                        <img src="images/avatar/portrait-beautiful-young-woman-standing-grey-wall.jpg" class="img-fluid rounded-circle avatar-image" alt="avatar" />
                                     </li>
 
                                     <li data-bs-target="#testimonial-carousel" data-bs-slide-to="1" class="">
-                                        <img src="images/avatar/portrait-young-redhead-bearded-male.jpg"
-                                            class="img-fluid rounded-circle avatar-image" alt="avatar" />
+                                        <img src="images/avatar/portrait-young-redhead-bearded-male.jpg" class="img-fluid rounded-circle avatar-image" alt="avatar" />
                                     </li>
 
                                     <li data-bs-target="#testimonial-carousel" data-bs-slide-to="2" class="">
-                                        <img src="images/avatar/pretty-blonde-woman-wearing-white-t-shirt.jpg"
-                                            class="img-fluid rounded-circle avatar-image" alt="avatar" />
+                                        <img src="images/avatar/pretty-blonde-woman-wearing-white-t-shirt.jpg" class="img-fluid rounded-circle avatar-image" alt="avatar" />
                                     </li>
 
                                     <li data-bs-target="#testimonial-carousel" data-bs-slide-to="3" class="">
-                                        <img src="images/avatar/studio-portrait-emotional-happy-funny.jpg"
-                                            class="img-fluid rounded-circle avatar-image" alt="avatar" />
+                                        <img src="images/avatar/studio-portrait-emotional-happy-funny.jpg" class="img-fluid rounded-circle avatar-image" alt="avatar" />
                                     </li>
                                 </ol>
                             </div>
@@ -917,8 +889,7 @@
                             <h2>Get in touch</h2>
 
                             <div class="contact-image-wrap d-flex flex-wrap">
-                                <img src="images/avatar/pretty-blonde-woman-wearing-white-t-shirt.jpg"
-                                    class="img-fluid avatar-image" alt="" />
+                                <img src="images/avatar/pretty-blonde-woman-wearing-white-t-shirt.jpg" class="img-fluid avatar-image" alt="" />
 
                                 <div class="d-flex flex-column justify-content-center ms-3">
                                     <p class="mb-0">Clara Barton</p>
@@ -961,21 +932,17 @@
                             </p>
                             <div class="row">
                                 <div class="col-lg-6 col-md-6 col-12">
-                                    <input type="text" name="first-name" id="first-name" class="form-control"
-                                        placeholder="Jack" required />
+                                    <input type="text" name="first-name" id="first-name" class="form-control" placeholder="Jack" required />
                                 </div>
 
                                 <div class="col-lg-6 col-md-6 col-12">
-                                    <input type="text" name="last-name" id="last-name" class="form-control"
-                                        placeholder="Doe" required />
+                                    <input type="text" name="last-name" id="last-name" class="form-control" placeholder="Doe" required />
                                 </div>
                             </div>
 
-                            <input type="email" name="email" id="email" pattern="[^ @]*@[^ @]*" class="form-control"
-                                placeholder="Jackdoe@gmail.com" required />
+                            <input type="email" name="email" id="email" pattern="[^ @]*@[^ @]*" class="form-control" placeholder="Jackdoe@gmail.com" required />
 
-                            <textarea name="message" rows="5" class="form-control" id="message"
-                                placeholder="What can we help you?"></textarea>
+                            <textarea name="message" rows="5" class="form-control" id="message" placeholder="What can we help you?"></textarea>
 
                             <button type="submit" class="form-control">Send Message</button>
                         </form>
