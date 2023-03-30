@@ -65,20 +65,22 @@
                 <li class="nav-item">
                     <a class="nav-link click-scroll" href="#section_2">About</a>
                 </li>
-
                 <li class="nav-item">
+                    <a class="nav-link click-scroll" href="#section_2">Projects</a>
+                </li>
+
+                <!-- <li class="nav-item">
                     <a class="nav-link click-scroll" href="#section_3">Causes</a>
                 </li>
 
                 <li class="nav-item">
                     <a class="nav-link click-scroll" href="#section_4">Volunteer</a>
-                </li>
-
+                </li> -->
+                <!-- 
                 <li class="nav-item dropdown">
-                    <a class="nav-link click-scroll dropdown-toggle" href="#section_5" id="navbarLightDropdownMenuLink"
-                        role="button" data-bs-toggle="dropdown" aria-expanded="false">News</a>
+                    <a class="nav-link click-scroll dropdown-toggle" href="#section_5" id="navbarLightDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">Projects</a> -->
 
-                    <ul class="dropdown-menu dropdown-menu-light" aria-labelledby="navbarLightDropdownMenuLink">
+                <!-- <ul class="dropdown-menu dropdown-menu-light" aria-labelledby="navbarLightDropdownMenuLink">
                         <li>
                             <a class="dropdown-item" href="#">News Listing</a>
                         </li>
@@ -86,8 +88,8 @@
                         <li>
                             <a class="dropdown-item" href="#">News Detail</a>
                         </li>
-                    </ul>
-                </li>
+                    </ul> -->
+                <!-- </li> -->
 
                 <li class="nav-item">
                     <a class="nav-link click-scroll" href="#section_6">Contact</a>

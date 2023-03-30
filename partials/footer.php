@@ -8,7 +8,7 @@
             <div class="col-lg-4 col-md-6 col-12 mb-4">
                 <h5 class="site-footer-title mb-3">Quick Links</h5>
 
-                <ul class="footer-menu">
+                <!-- <ul class="footer-menu">
                     <li class="footer-menu-item">
                         <a href="#" class="footer-menu-link">Our Story</a>
                     </li>
@@ -28,7 +28,7 @@
                     <li class="footer-menu-item">
                         <a href="#" class="footer-menu-link">Partner with us</a>
                     </li>
-                </ul>
+                </ul> -->
             </div>
 
             <div class="col-lg-4 col-md-6 col-12 mx-auto">
