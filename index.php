@@ -29,7 +29,7 @@
                         <div id="hero-slide" class="carousel carousel-fade slide" data-bs-ride="carousel">
                             <div class="carousel-inner">
                                 <div class="carousel-item active">
-                                    <img src="images/slide/volunteer-helping-with-donation-box.jpg" class="carousel-image img-fluid" alt="..." />
+                                    <img src="images/slide/slide1.jpg" class="carousel-image img-fluid" alt="..." />
 
                                     <div class="carousel-caption d-flex flex-column justify-content-end">
                                         <a href="#">
@@ -42,7 +42,7 @@
                                 </div>
 
                                 <div class="carousel-item">
-                                    <img src="images/slide/volunteer-selecting-organizing-clothes-donations-charity.jpg" class="carousel-image img-fluid" alt="..." />
+                                    <img src="images/slide/slide2.jpg" class="carousel-image img-fluid" alt="..." />
 
                                     <div class="carousel-caption d-flex flex-column justify-content-end">
                                         <a href="#">
@@ -54,7 +54,7 @@
                                 </div>
 
                                 <div class="carousel-item">
-                                    <img src="images/slide/medium-shot-people-collecting-donations.jpg" class="carousel-image img-fluid" alt="..." />
+                                    <img src="images/slide/slide3.jpg" class="carousel-image img-fluid" alt="..." />
 
                                     <div class="carousel-caption d-flex flex-column justify-content-end">
                                         <a href="#">
@@ -65,7 +65,7 @@
                                     </div>
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="images/slide/volunteer-helping-with-donation-box.jpg" class="carousel-image img-fluid" alt="..." />
+                                    <img src="images/slide/slide4.jpg" class="carousel-image img-fluid" alt="..." />
 
                                     <div class="carousel-caption d-flex flex-column justify-content-end">
                                         <a href="#">
@@ -75,7 +75,7 @@
                                     </div>
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="images/slide/medium-shot-people-collecting-donations.jpg" class="carousel-image img-fluid" alt="..." />
+                                    <img src="images/slide/slide5.jpg" class="carousel-image img-fluid" alt="..." />
 
                                     <div class="carousel-caption d-flex flex-column justify-content-end">
                                         <a href="#">
@@ -85,7 +85,7 @@
                                     </div>
                                 </div>
                                 <div class="carousel-item">
-                                    < <img src="images/slide/volunteer-helping-with-donation-box.jpg" class="carousel-image img-fluid" alt="..." />
+                                    < <img src="images/slide/slide6.jpg" class="carousel-image img-fluid" alt="..." />
 
                                     <div class="carousel-caption d-flex flex-column justify-content-end">
                                         <a href="#">
@@ -95,7 +95,7 @@
                                     </div>
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="images/slide/medium-shot-people-collecting-donations.jpg" class="carousel-image img-fluid" alt="..." />
+                                    <img src="images/slide/slide7.jpg" class="carousel-image img-fluid" alt="..." />
 
                                     <div class="carousel-caption d-flex flex-column justify-content-end">
                                         <a href="#">
@@ -135,7 +135,7 @@
 
                     <div class="col-lg-3 col-md-6 col-12 mb-4 mb-lg-0">
                         <div class="featured-block d-flex justify-content-center align-items-center">
-                            <a href="donate.html" class="d-block">
+                            <a href="child-empowerment.php" class="d-block">
                                 <img src="images/icons/chilsd.png" class="featured-block-image img-fluid" alt="" />
 
                                 <p class="featured-block-text">
@@ -147,7 +147,7 @@
 
                     <div class="col-lg-3 col-md-6 col-12 mb-4 mb-lg-0 mb-md-4">
                         <div class="featured-block d-flex justify-content-center align-items-center">
-                            <a href="donate.html" class="d-block">
+                            <a href="youth-empowerment.php" class="d-block">
                                 <img src="images/icons/hands.png" class="featured-block-image img-fluid" alt="" />
 
                                 <p class="featured-block-text">
@@ -159,7 +159,7 @@
 
                     <div class="col-lg-3 col-md-6 col-12 mb-4 mb-lg-0 mb-md-4">
                         <div class="featured-block d-flex justify-content-center align-items-center">
-                            <a href="donate.html" class="d-block">
+                            <a href="entrepreneurship-development.php" class="d-block">
                                 <img src="images/icons/enter.png" class="featured-block-image img-fluid" alt="" />
 
                                 <p class="featured-block-text">
@@ -171,7 +171,7 @@
 
                     <div class="col-lg-3 col-md-6 col-12 mb-4 mb-lg-0">
                         <div class="featured-block d-flex justify-content-center align-items-center">
-                            <a href="donate.html" class="d-block">
+                            <a href="health-empowerment.php" class="d-block">
                                 <img src="images/icons/heart.png" class="featured-block-image img-fluid" alt="" />
 
                                 <p class="featured-block-text">
@@ -182,8 +182,8 @@
                     </div>
                     <div class="col-lg-4 col-md-6 col-12 mb-4 mb-lg-0">
                         <div class="featured-block d-flex justify-content-center align-items-center">
-                            <a href="donate.html" class="d-block">
-                                <img src="images/icons/scholarship.png" class="featured-block-image img-fluid" alt="" />
+                            <a href="resource-empowerment.php" class="d-block">
+                                <img src="images/icons/resourse'.png" class="featured-block-image img-fluid" alt="" />
 
                                 <p class="featured-block-text">
                                     <strong>Resource
@@ -194,8 +194,8 @@
                     </div>
                     <div class="col-lg-4 col-md-6 col-12 mb-4 mb-lg-0">
                         <div class="featured-block d-flex justify-content-center align-items-center">
-                            <a href="donate.html" class="d-block">
-                                <img src="images/icons/enter.png" class="featured-block-image img-fluid" alt="" />
+                            <a href="technology-for-society.php" class="d-block">
+                                <img src="images/icons/technology.png" class="featured-block-image img-fluid" alt="" />
 
                                 <p class="featured-block-text">
                                     <strong>Technology </strong> for Society
@@ -205,8 +205,8 @@
                     </div>
                     <div class="col-lg-4 col-md-6 col-12 mb-4 mb-lg-0">
                         <div class="featured-block d-flex justify-content-center align-items-center">
-                            <a href="donate.html" class="d-block">
-                                <img src="images/icons/hands.png" class="featured-block-image img-fluid" alt="" />
+                            <a href="skill-development.php" class="d-block">
+                                <img src="images/icons/skill.png" class="featured-block-image img-fluid" alt="" />
 
                                 <p class="featured-block-text">
                                     <strong>Skill </strong> Development
@@ -234,19 +234,16 @@
                                 Muciri Village
                             </h5>
                             <h2 class="mb-2">About us</h2>
-                            <p class="mb-0">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque distinctio dolorem a
-                                nisi quibusdam deserunt unde, non, incidunt quia inventore error neque laborum ipsam
-                                soluta aliquid culpa nesciunt nemo. Recusandae quisquam facilis placeat officiis
-                                aperiam! Itaque consequuntur accusantium nam. Rem eos molestiae omnis veritatis,
-                                consequatur nostrum quos cumque ipsam ratione tempora aliquam illo architecto iste
-                                placeat explicabo, repellat voluptatum magnam adipisci impedit excepturi voluptate
-                                voluptates blanditiis. Amet itaque dolor deleniti cupiditate temporibus inventore.
-                                Perspiciatis aliquam velit, ab eligendi natus, dignissimos quas iure quam omnis impedit
-                                itaque perferendis numquam cupiditate minus? Dolor libero, consequatur amet rem
-                                distinctio quo provident fuga unde dolorum cupiditate. At modi laborum aspernatur
-                                soluta. Vitae illum dolore assumenda nostrum quis aliquam vero! Omnis vel odit
-                                architecto facilis?
+                            <p class="mb-0 justify-para">
+                                Muciri Village Project is a community-based organisation dedicated to empowering its
+                                residents and promoting sustainable development. Our organisation is founded on seven
+                                pillars that are critical to the growth and success of our community: Child Empowerment,
+                                Youth Empowerment, Women Development, Entrepreneurship Development, Health Empowerment,
+                                Resource Empowerment, Technology for Society, and Skill Development. We aim to provide
+                                access to high-quality education, training, and resources through our initiatives in
+                                order to promote economic growth, self-sufficiency, and a brighter future for all.
+                                Muciri Village Project is committed to creating a thriving community by promoting
+                                positive change.
                             </p>
                         </div>
 
@@ -305,38 +302,36 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6 col-md-5 col-12">
-                        <img src="images/portrait-volunteer-who-organized-donations-charity.jpg" class="about-image ms-lg-auto bg-light shadow-lg img-fluid" alt="" />
+                        <img style="height:435px !important ;" src="images/portrait-volunteer-who-organized-donations-charity.jpg" class="about-image ms-lg-auto bg-light shadow-lg img-fluid" alt="" />
                     </div>
 
                     <div class="col-lg-5 col-md-7 col-12">
-                        <div class="custom-text-block">
-                            <h2 class="mb-0">Sandy Chan</h2>
+                        <div class="custom-text-block justify-para" style="padding: 0!important;">
+                            <h2 class="mb-0">Mission</h2>
 
-                            <p class="text-muted mb-lg-4 mb-md-4">Founding Partner</p>
-
-                            <p>
-                                Lorem Ipsum dolor sit amet, consectetur adipsicing kengan omeg
-                                kohm tokito Professional charity theme based
-                            </p>
+                            <!-- <p class="text-muted mb-lg-4 mb-md-4">Founding Partner</p> -->
 
                             <p>
-                                Sed leo nisl, posuere at molestie ac, suscipit auctor mauris.
-                                Etiam quis metus
+                                Our goal is to build a sustainable community where individuals can reach their full
+                                potential through a holistic approach. We plan to achieve this by promoting child and
+                                youth empowerment, women development, entrepreneurship, health, resource and technology
+                                empowerment, and skill development. We envision a community where everyone can thrive
+                                and contribute to a brighter future for themselves and society.
+
                             </p>
+                            <h2 class="mb-0">Vision</h2>
 
-                            <ul class="social-icon mt-4">
-                                <li class="social-icon-item">
-                                    <a href="#" class="social-icon-link bi-twitter"></a>
-                                </li>
+                            <!-- <p class="text-muted mb-lg-4 mb-md-4">Founding Partner</p> -->
 
-                                <li class="social-icon-item">
-                                    <a href="#" class="social-icon-link bi-facebook"></a>
-                                </li>
+                            <p>
+                                Our vision is to empower individuals from diverse backgrounds to become leaders and
+                                create positive change in their communities through sustainable and ethical means. We
+                                aim to ensure equal access to resources for all, creating a more equitable and
+                                prosperous world.
 
-                                <li class="social-icon-item">
-                                    <a href="#" class="social-icon-link bi-instagram"></a>
-                                </li>
-                            </ul>
+
+
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -410,34 +405,14 @@
                     <div class="col-lg-4 col-md-6 col-12 mb-4 mb-lg-0">
                         <div class="custom-block-wrap">
                             <img src="images/causes/poor-child-landfill-looks-forward-with-hope.jpg" class="custom-block-image img-fluid" alt="" />
-
                             <div class="custom-block">
                                 <div class="custom-block-body">
                                     <h5 class="mb-3">Poverty Development</h5>
-
                                     <p>
                                         Sed leo nisl, posuere at molestie ac, suscipit auctor
                                         mauris. Etiam quis metus tempor
                                     </p>
-
-                                    <!-- <div class="progress mt-4">
-                                        <div class="progress-bar w-50" role="progressbar" aria-valuenow="50"
-                                            aria-valuemin="0" aria-valuemax="100"></div>
-                                    </div>
-
-                                    <div class="d-flex align-items-center my-2">
-                                        <p class="mb-0">
-                                            <strong>Raised:</strong>
-                                            $27,600
-                                        </p>
-
-                                        <p class="ms-auto mb-0">
-                                            <strong>Goal:</strong>
-                                            $60,000
-                                        </p>
-                                    </div> -->
                                 </div>
-
                                 <a href="donate.html" class="custom-btn btn">Read More</a>
                             </div>
                         </div>
@@ -446,31 +421,13 @@
                     <div class="col-lg-4 col-md-6 col-12">
                         <div class="custom-block-wrap">
                             <img src="images/causes/african-woman-pouring-water-recipient-outdoors.jpg" class="custom-block-image img-fluid" alt="" />
-
                             <div class="custom-block">
                                 <div class="custom-block-body">
                                     <h5 class="mb-3">Supply drinking water</h5>
-
                                     <p>
                                         Orci varius natoque penatibus et magnis dis parturient
                                         montes, nascetur ridiculus
                                     </p>
-
-                                    <!-- <div class="progress mt-4">
-                    <div class="progress-bar w-100" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
-                  </div>
-
-                  <div class="d-flex align-items-center my-2">
-                    <p class="mb-0">
-                      <strong>Raised:</strong>
-                      $84,600
-                    </p>
-
-                    <p class="ms-auto mb-0">
-                      <strong>Goal:</strong>
-                      $100,000
-                    </p>
-                  </div> -->
                                 </div>
 
                                 <a href="donate.html" class="custom-btn btn">Read More</a>
@@ -482,7 +439,7 @@
         </section>
         <!-- CARD END -->
 
-        <section class="volunteer-section section-padding" id="section_4">
+        <!-- <section class="volunteer-section section-padding" id="section_4">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6 col-12">
@@ -535,31 +492,24 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
 
-        <section class="news-section section-padding" id="section_5">
+        <!-- <section class="news-section section-padding" id="section_5">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 col-12 mb-5">
                         <h2>Latest News</h2>
                     </div>
-
                     <div class="col-lg-7 col-12">
                         <div class="news-block">
                             <div class="news-block-top">
                                 <a href="news-detail.html">
                                     <img src="images/news/medium-shot-volunteers-with-clothing-donations.jpg" class="news-image img-fluid" alt="" />
                                 </a>
-
                                 <div class="news-category-block">
                                     <a href="#" class="category-block-link"> News or Event</a>
-
-                                    <!-- <a href="#" class="category-block-link">
-                    Clothing Donation
-                  </a> -->
                                 </div>
                             </div>
-
                             <div class="news-block-info">
                                 <div class="d-flex mt-2">
                                     <div class="news-block-date">
@@ -568,14 +518,12 @@
                                             October 12, 2036
                                         </p>
                                     </div>
-
                                     <div class="news-block-author mx-5">
                                         <p>
                                             <i class="bi-person custom-icon me-1"></i>
                                             By Admin
                                         </p>
                                     </div>
-
                                     <div class="news-block-comment">
                                         <p>
                                             <i class="bi-chat-left custom-icon me-1"></i>
@@ -583,14 +531,12 @@
                                         </p>
                                     </div>
                                 </div>
-
                                 <div class="news-block-title mb-2">
                                     <h4>
                                         <a href="news-detail.html" class="news-block-title-link">Clothing donation to
                                             urban area</a>
                                     </h4>
                                 </div>
-
                                 <div class="news-block-body">
                                     <p>
                                         Lorem Ipsum dolor sit amet, consectetur adipsicing kengan
@@ -600,88 +546,21 @@
                                 </div>
                             </div>
                         </div>
-
-                        <!-- <div class="news-block mt-3">
-              <div class="news-block-top">
-                <a href="news-detail.html">
-                  <img src="images/news/medium-shot-people-collecting-foodstuff.jpg" class="news-image img-fluid" alt="" />
-                </a>
-
-                <div class="news-category-block">
-                  <a href="#" class="category-block-link"> Food, </a>
-
-                  <a href="#" class="category-block-link"> Donation, </a>
-
-                  <a href="#" class="category-block-link"> Caring </a>
-                </div>
-              </div>
-
-              <div class="news-block-info">
-                <div class="d-flex mt-2">
-                  <div class="news-block-date">
-                    <p>
-                      <i class="bi-calendar4 custom-icon me-1"></i>
-                      October 20, 2036
-                    </p>
-                  </div>
-
-                  <div class="news-block-author mx-5">
-                    <p>
-                      <i class="bi-person custom-icon me-1"></i>
-                      By Admin
-                    </p>
-                  </div>
-
-                  <div class="news-block-comment">
-                    <p>
-                      <i class="bi-chat-left custom-icon me-1"></i>
-                      35 Comments
-                    </p>
-                  </div>
-                </div>
-
-                <div class="news-block-title mb-2">
-                  <h4>
-                    <a href="news-detail.html" class="news-block-title-link">Food donation area</a>
-                  </h4>
-                </div>
-
-                <div class="news-block-body">
-                  <p>
-                    Sed leo nisl, posuere at molestie ac, suscipit auctor
-                    mauris. Etiam quis metus elementum, tempor risus vel,
-                    condimentum orci
-                  </p>
-                </div>
-              </div>
-            </div> -->
                     </div>
-
                     <div class="col-lg-4 col-12 mx-auto">
-                        <!-- <form class="custom-form search-form" action="#" method="post" role="form">
-                            <input class="form-control" type="search" placeholder="Search" aria-label="Search" />
-
-                            <button type="submit" class="form-control">
-                                <i class="bi-search"></i>
-                            </button>
-                        </form> -->
-
                         <h5 class="mb-3">Recent news</h5>
-
                         <div class="news-block news-block-two-col d-flex mt-4">
                             <div class="news-block-two-col-image-wrap">
                                 <a href="news-detail.html">
                                     <img src="images/news/africa-humanitarian-aid-doctor.jpg" class="news-image img-fluid" alt="" />
                                 </a>
                             </div>
-
                             <div class="news-block-two-col-info">
                                 <div class="news-block-title mb-2">
                                     <h6>
                                         <a href="news-detail.html" class="news-block-title-link">Food donation area</a>
                                     </h6>
                                 </div>
-
                                 <div class="news-block-date">
                                     <p>
                                         <i class="bi-calendar4 custom-icon me-1"></i>
@@ -690,7 +569,26 @@
                                 </div>
                             </div>
                         </div>
-
+                        <div class="news-block news-block-two-col d-flex mt-4">
+                            <div class="news-block-two-col-image-wrap">
+                                <a href="news-detail.html">
+                                    <img src="images/news/close-up-happy-people-working-together.jpg" class="news-image img-fluid" alt="" />
+                                </a>
+                            </div>
+                            <div class="news-block-two-col-info">
+                                <div class="news-block-title mb-2">
+                                    <h6>
+                                        <a href="news-detail.html" class="news-block-title-link">Volunteering Clean</a>
+                                    </h6>
+                                </div>
+                                <div class="news-block-date">
+                                    <p>
+                                        <i class="bi-calendar4 custom-icon me-1"></i>
+                                        October 24, 2036
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
                         <div class="news-block news-block-two-col d-flex mt-4">
                             <div class="news-block-two-col-image-wrap">
                                 <a href="news-detail.html">
@@ -712,94 +610,11 @@
                                     </p>
                                 </div>
                             </div>
-
                         </div>
-
-                        <div class="news-block news-block-two-col d-flex mt-4">
-                            <div class="news-block-two-col-image-wrap">
-                                <a href="news-detail.html">
-                                    <img src="images/news/close-up-happy-people-working-together.jpg" class="news-image img-fluid" alt="" />
-                                </a>
-                            </div>
-
-                            <div class="news-block-two-col-info">
-                                <div class="news-block-title mb-2">
-                                    <h6>
-                                        <a href="news-detail.html" class="news-block-title-link">Volunteering Clean</a>
-                                    </h6>
-                                </div>
-
-                                <div class="news-block-date">
-                                    <p>
-                                        <i class="bi-calendar4 custom-icon me-1"></i>
-                                        October 24, 2036
-                                    </p>
-                                </div>
-                            </div>
-
-                        </div>
-
-                        <!-- <div class="category-block d-flex flex-column">
-                            <h5 class="mb-3">Categories</h5>
-
-                            <a href="#" class="category-block-link">
-                                Drinking water
-                                <span class="badge">20</span>
-                            </a>
-
-                            <a href="#" class="category-block-link">
-                                Food Donation
-                                <span class="badge">30</span>
-                            </a>
-
-                            <a href="#" class="category-block-link">
-                                Children Education
-                                <span class="badge">10</span>
-                            </a>
-
-                            <a href="#" class="category-block-link">
-                                Poverty Development
-                                <span class="badge">15</span>
-                            </a>
-
-                            <a href="#" class="category-block-link">
-                                Clothing Donation
-                                <span class="badge">20</span>
-                            </a>
-                        </div> -->
-
-                        <!-- <div class="tags-block">
-                            <h5 class="mb-3">Tags</h5>
-
-                            <a href="#" class="tags-block-link"> Donation </a>
-
-                            <a href="#" class="tags-block-link"> Clothing </a>
-
-                            <a href="#" class="tags-block-link"> Food </a>
-
-                            <a href="#" class="tags-block-link"> Children </a>
-
-                            <a href="#" class="tags-block-link"> Education </a>
-
-                            <a href="#" class="tags-block-link"> Poverty </a>
-
-                            <a href="#" class="tags-block-link"> Clean Water </a>
-                        </div> -->
-
-                        <!-- <form class="custom-form subscribe-form" action="#" method="post" role="form">
-                            <h5 class="mb-4">Newsletter Form</h5>
-
-                            <input type="email" name="subscribe-email" id="subscribe-email" pattern="[^ @]*@[^ @]*"
-                                class="form-control" placeholder="Email Address" required />
-
-                            <div class="col-lg-12 col-12">
-                                <button type="submit" class="form-control">Subscribe</button>
-                            </div>
-                        </form> -->
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
 
         <section class="testimonial-section section-padding section-bg">
             <div class="container">
