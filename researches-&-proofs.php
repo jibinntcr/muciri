@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Health Empowerment | Muciri Village</title>
+    <title> Researches &amp; Proofs | Muciri Village</title>
 
     <!-- CSS FILES -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -32,7 +32,7 @@
                 <div class="row">
 
                     <div class="col-lg-12 col-12">
-                        <h1 class="text-white">Health Empowerment</h1>
+                        <h1 class="text-white">Researches &amp; Proofs</h1>
                     </div>
 
                 </div>
@@ -46,31 +46,32 @@
                     <div class="col-lg-7 col-12">
                         <div class="news-block">
                             <div class="news-block-top mb-4">
-                                <img src="images/news/health.jpg" class="news-image img-fluid" alt="">
+                                <img src="images/slide/slide6-thumb.jpg" class="news-image img-fluid" alt="">
                             </div>
                             <div class="news-block-title mb-2">
-                                <h4>Health Empowerment</h4>
+                                <h4>Researches &amp; Proofs</h4>
                             </div>
 
                             <div class="news-block-info">
 
                                 <div class="news-block-body justify-para">
-                                    <p>Muciri Village Project understands that Health Empowerment is critical to a
-                                        community's growth and success. We work hard to make sure that all residents
-                                        have access to high-quality healthcare and education. Our programmes promote
-                                        healthy lifestyles and disease prevention, and we work to raise community
-                                        awareness about prevalent health issues. We also provide resources and
-                                        information to assist individuals in making informed health decisions. We hope
-                                        to promote a healthier and more prosperous community by empowering individuals
-                                        to take control of their health. Muciri Village Project is dedicated to
-                                        promoting health empowerment and building a better future for all. </p>
+                                    <p>Archaeologists and historians have been fascinated by the discovery of Muziris,
+                                        an ancient port city in Kerala, India. Several excavations have taken place at
+                                        the site, revealing a plethora of historical artefacts and structures such as
+                                        pottery, coins, and buildings. Muziris' identification was based on ancient
+                                        texts and historical accounts at first, but archaeological evidence has provided
+                                        additional proof of its existence and importance as a trading hub in the ancient
+                                        world. These discoveries have shed new light on the region's history, economic
+                                        significance, and connections to the rest of the world.
+
+                                    </p>
 
                                 </div>
                             </div>
                         </div>
                     </div>
 
-                    <?php include('partials/seven-pillers.php') ?>
+                    <?php include('partials/banner-seven.php') ?>
 
                 </div>
             </div>

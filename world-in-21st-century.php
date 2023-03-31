@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Health Empowerment | Muciri Village</title>
+    <title> World in 21st Century | Muciri Village</title>
 
     <!-- CSS FILES -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -32,7 +32,7 @@
                 <div class="row">
 
                     <div class="col-lg-12 col-12">
-                        <h1 class="text-white">Health Empowerment</h1>
+                        <h1 class="text-white">World in 21st Century</h1>
                     </div>
 
                 </div>
@@ -46,31 +46,37 @@
                     <div class="col-lg-7 col-12">
                         <div class="news-block">
                             <div class="news-block-top mb-4">
-                                <img src="images/news/health.jpg" class="news-image img-fluid" alt="">
+                                <img src="images/slide/slide4-thumb.jpg" class="news-image img-fluid" alt="">
                             </div>
                             <div class="news-block-title mb-2">
-                                <h4>Health Empowerment</h4>
+                                <h4>World in 21st Century</h4>
                             </div>
 
                             <div class="news-block-info">
 
                                 <div class="news-block-body justify-para">
-                                    <p>Muciri Village Project understands that Health Empowerment is critical to a
-                                        community's growth and success. We work hard to make sure that all residents
-                                        have access to high-quality healthcare and education. Our programmes promote
-                                        healthy lifestyles and disease prevention, and we work to raise community
-                                        awareness about prevalent health issues. We also provide resources and
-                                        information to assist individuals in making informed health decisions. We hope
-                                        to promote a healthier and more prosperous community by empowering individuals
-                                        to take control of their health. Muciri Village Project is dedicated to
-                                        promoting health empowerment and building a better future for all. </p>
+                                    <p>The twenty-first century has seen unprecedented levels of globalization,
+                                        resulting in a significant shift in the global economy and cultural landscape.
+                                        Technology and transportation advancements have made it easier than ever to
+                                        connect with people and markets all over the world, resulting in a significant
+                                        increase in international trade and cultural exchange. As a result, many
+                                        companies now operate on a global scale, with supply chains stretching across
+                                        multiple countries and continents. Simultaneously, cultural barriers have been
+                                        broken down, with people from various cultures and backgrounds sharing ideas,
+                                        beliefs, and practices. However, this globalization has also resulted in a
+                                        growing sense of cultural homogenization, with some concerned that distinct
+                                        cultural traditions and identities are being lost in the face of a dominant
+                                        global culture. Despite these challenges, the world in the twenty-first century
+                                        is more interconnected than ever before, creating both opportunities and
+                                        challenges.
+                                    </p>
 
                                 </div>
                             </div>
                         </div>
                     </div>
 
-                    <?php include('partials/seven-pillers.php') ?>
+                    <?php include('partials/banner-seven.php') ?>
 
                 </div>
             </div>

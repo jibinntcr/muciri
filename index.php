@@ -16,6 +16,7 @@
     <link href="css/bootstrap-icons.css" rel="stylesheet" />
 
     <link href="css/templatemo-kind-heart-charity.css" rel="stylesheet" />
+    <link rel="icon" href="images/logo.png" type="image/x-icon">
 </head>
 <?php include('partials/header.php') ?>
 
@@ -32,7 +33,7 @@
                                     <img src="images/slide/slide1.jpg" class="carousel-image img-fluid" alt="..." />
 
                                     <div class="carousel-caption d-flex flex-column justify-content-end">
-                                        <a href="#">
+                                        <a href="the-origin-of-indian-trade-culture.php">
                                             <h4 style="color: var(--p-color);">The Origin of Indian<h4>
                                                     <h1>Trade Culture </h1>
                                         </a>
@@ -45,7 +46,7 @@
                                     <img src="images/slide/slide2.jpg" class="carousel-image img-fluid" alt="..." />
 
                                     <div class="carousel-caption d-flex flex-column justify-content-end">
-                                        <a href="#">
+                                        <a href="trade-capital.php">
                                             <h1>Trade Capital</h1>
                                         </a>
 
@@ -57,7 +58,7 @@
                                     <img src="images/slide/slide3.jpg" class="carousel-image img-fluid" alt="..." />
 
                                     <div class="carousel-caption d-flex flex-column justify-content-end">
-                                        <a href="#">
+                                        <a href="gandhian-thought-of-village-development.php">
                                             <h1>Gandhian</h1>
                                             <h4 style="color: var(--p-color);">Thought of Village Development
                                             </h4>
@@ -68,7 +69,7 @@
                                     <img src="images/slide/slide4.jpg" class="carousel-image img-fluid" alt="..." />
 
                                     <div class="carousel-caption d-flex flex-column justify-content-end">
-                                        <a href="#">
+                                        <a href="world-in-21st-century.php">
                                             <h1>World in 21<sup>st</sup></h1>
                                             <h4 style="color: var(--p-color);">Century</h4>
                                         </a>
@@ -78,7 +79,7 @@
                                     <img src="images/slide/slide5.jpg" class="carousel-image img-fluid" alt="..." />
 
                                     <div class="carousel-caption d-flex flex-column justify-content-end">
-                                        <a href="#">
+                                        <a href="21st-century-indian-village.php">
                                             <h1>21<sup>st</sup> Century <br>Indian village</h1>
                                             <!-- <h4 style="color: var(--p-color);">Century</h4> -->
                                         </a>
@@ -88,7 +89,7 @@
                                     < <img src="images/slide/slide6.jpg" class="carousel-image img-fluid" alt="..." />
 
                                     <div class="carousel-caption d-flex flex-column justify-content-end">
-                                        <a href="#">
+                                        <a href="researches-&-proofs.php">
                                             <h1>Researches &<br>Proofs</h1>
                                             <!-- <h4 style="color: var(--p-color);">Century</h4> -->
                                         </a>
@@ -98,7 +99,7 @@
                                     <img src="images/slide/slide7.jpg" class="carousel-image img-fluid" alt="..." />
 
                                     <div class="carousel-caption d-flex flex-column justify-content-end">
-                                        <a href="#">
+                                        <a href="7-pillars-of-muciri-village.php">
                                             <h1>7 Pillars of<br>Muciri Village </h1>
                                             <!-- <h4 style="color: var(--p-color);">Muciri Village</h4> -->
                                         </a>

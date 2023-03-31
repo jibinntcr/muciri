@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Child Empowerment | Muciri Village</title>
+    <title> 21st Century Indian Village | Muciri Village</title>
 
     <!-- CSS FILES -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -32,7 +32,7 @@
                 <div class="row">
 
                     <div class="col-lg-12 col-12">
-                        <h1 class="text-white">Child Empowerment</h1>
+                        <h1 class="text-white">21<sup>st</sup> Century Indian Village</h1>
                     </div>
 
                 </div>
@@ -46,27 +46,30 @@
                     <div class="col-lg-7 col-12">
                         <div class="news-block">
                             <div class="news-block-top mb-4">
-                                <img src="images/news/child.jpg" class="news-image img-fluid" alt="">
+                                <img src="images/slide/slide5-thumb.jpg" class="news-image img-fluid" alt="">
                             </div>
                             <div class="news-block-title mb-2">
-                                <h4>Child Empowerment</h4>
+                                <h4>21<sup>st</sup> Century Indian Village</h4>
                             </div>
 
                             <div class="news-block-info">
 
                                 <div class="news-block-body justify-para">
-                                    <p>At Muciri Village Project, we believe that empowering children is critical to
-                                        creating a prosperous and sustainable community. We are committed to providing
-                                        every child with a high-quality education and the resources they require to
-                                        reach their full potential. Our programmes are designed to provide a safe and
-                                        supportive learning environment for children, as well as opportunities for them
-                                        to develop important life skills. We also collaborate closely with parents and
-                                        carers to provide them with the resources and support they require to help their
-                                        children succeed. We hope to break the cycle of poverty by providing children
-                                        with the tools they need to build a better future through our child empowerment
-                                        programmes. Our commitment to child empowerment is not only an investment in our
-                                        community's future; it also reflects our belief in every child's inherent worth
-                                        and dignity.
+                                    <p>Villages in India in the twenty-first century are important repositories of
+                                        India's cultural heritage, with diverse cultural practices and customs passed
+                                        down through generations. Many communities rely on the abundance of natural
+                                        resources in these rural areas, such as fertile land, water sources, and
+                                        forests, for a living. However, the effects of climate change and rising demand
+                                        for natural resources have put a strain on these resources, emphasizing the
+                                        importance of sustainable development practices. Despite these obstacles, Indian
+                                        villages have shown remarkable endurance and resilience, adapting to changing
+                                        conditions and innovating new solutions. These communities' traditional
+                                        knowledge and practices remain valuable assets, and initiatives aimed at
+                                        preserving and promoting them are critical for sustaining India's cultural and
+                                        natural heritage. Indian villages have the potential to thrive and continue to
+                                        play an important role in India's social, economic, and cultural fabric with the
+                                        right support and investments in rural development.
+
                                     </p>
 
                                 </div>
@@ -74,7 +77,7 @@
                         </div>
                     </div>
 
-                    <?php include('partials/seven-pillers.php') ?>
+                    <?php include('partials/banner-seven.php') ?>
 
                 </div>
             </div>

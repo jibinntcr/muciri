@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Health Empowerment | Muciri Village</title>
+    <title> Gandhian Thought of Village Vevelopment | Muciri Village</title>
 
     <!-- CSS FILES -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -32,7 +32,7 @@
                 <div class="row">
 
                     <div class="col-lg-12 col-12">
-                        <h1 class="text-white">Health Empowerment</h1>
+                        <h1 class="text-white">Gandhian Thought of Village Vevelopment </h1>
                     </div>
 
                 </div>
@@ -46,31 +46,36 @@
                     <div class="col-lg-7 col-12">
                         <div class="news-block">
                             <div class="news-block-top mb-4">
-                                <img src="images/news/health.jpg" class="news-image img-fluid" alt="">
+                                <img src="images/slide/slide3.jpg" class="news-image img-fluid" alt="">
                             </div>
                             <div class="news-block-title mb-2">
-                                <h4>Health Empowerment</h4>
+                                <h4>Gandhian Thought of Village Vevelopment</h4>
                             </div>
 
                             <div class="news-block-info">
 
                                 <div class="news-block-body justify-para">
-                                    <p>Muciri Village Project understands that Health Empowerment is critical to a
-                                        community's growth and success. We work hard to make sure that all residents
-                                        have access to high-quality healthcare and education. Our programmes promote
-                                        healthy lifestyles and disease prevention, and we work to raise community
-                                        awareness about prevalent health issues. We also provide resources and
-                                        information to assist individuals in making informed health decisions. We hope
-                                        to promote a healthier and more prosperous community by empowering individuals
-                                        to take control of their health. Muciri Village Project is dedicated to
-                                        promoting health empowerment and building a better future for all. </p>
+                                    <p>Gandhian village development thinking is based on the belief that rural
+                                        communities are the foundation of a healthy society. According to Gandhi, the
+                                        village is a self-sufficient unit capable of meeting its inhabitants' basic
+                                        needs through local resources and community cooperation. He advocated for the
+                                        transfer of power and resources from urban areas to villages, promoting a model
+                                        of sustainable and equitable development that would ensure the well-being of all
+                                        members of society. Gandhi believed that rural development should be based on
+                                        nonviolence, self-reliance, and respect for nature, emphasizing the importance
+                                        of agriculture, handicrafts, and other traditional practices as a source of
+                                        income. His vision of village development centered on empowering local
+                                        communities to take control of their own fates, fostering a sense of collective
+                                        responsibility and cooperation that would aid in the construction of a stronger,
+                                        more resilient society.
+                                    </p>
 
                                 </div>
                             </div>
                         </div>
                     </div>
 
-                    <?php include('partials/seven-pillers.php') ?>
+                    <?php include('partials/banner-seven.php') ?>
 
                 </div>
             </div>

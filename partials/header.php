@@ -10,30 +10,30 @@
                 <p class="d-flex mb-0">
                     <i class="bi-envelope me-2"></i>
 
-                    <a href="mailto:info@company.com"> info@company.com </a>
+                    <a href="mailto:mucirivillage@gmail.com"> mailto:mucirivillage@gmail.com </a>
                 </p>
             </div>
 
             <div class="col-lg-3 col-12 ms-auto d-lg-block d-none">
                 <ul class="social-icon">
                     <li class="social-icon-item">
-                        <a href="#" class="social-icon-link bi-twitter"></a>
+                        <a href="https://twitter.com/mucirivillage" target="_blank" class="social-icon-link bi-twitter"></a>
                     </li>
 
                     <li class="social-icon-item">
-                        <a href="#" class="social-icon-link bi-facebook"></a>
+                        <a href="https://www.facebook.com/mucirivillage" class="social-icon-link bi-facebook" target="_blank"></a>
                     </li>
 
                     <li class="social-icon-item">
-                        <a href="#" class="social-icon-link bi-instagram"></a>
+                        <a href="https://www.instagram.com/mucirivillage/" class="social-icon-link bi-instagram" target="_blank"></a>
                     </li>
 
                     <li class="social-icon-item">
-                        <a href="#" class="social-icon-link bi-youtube"></a>
+                        <a href="https://www.youtube.com/@mucirivillage" target="_blank" class="social-icon-link bi-youtube"></a>
                     </li>
 
                     <li class="social-icon-item">
-                        <a href="#" class="social-icon-link bi-whatsapp"></a>
+                        <a href="https://www.linkedin.com/company/mucirivillage/about/" class="social-icon-link bi-linkedin" target="_blank"></a>
                     </li>
                 </ul>
             </div>
@@ -51,8 +51,7 @@
             </span>
         </a>
 
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
-            aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
 

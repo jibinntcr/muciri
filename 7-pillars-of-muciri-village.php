@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Health Empowerment | Muciri Village</title>
+    <title>7 Pillars of Muciri Village | Muciri Village</title>
 
     <!-- CSS FILES -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -32,7 +32,7 @@
                 <div class="row">
 
                     <div class="col-lg-12 col-12">
-                        <h1 class="text-white">Health Empowerment</h1>
+                        <h1 class="text-white">7 Pillars of Muciri Village</h1>
                     </div>
 
                 </div>
@@ -46,31 +46,40 @@
                     <div class="col-lg-7 col-12">
                         <div class="news-block">
                             <div class="news-block-top mb-4">
-                                <img src="images/news/health.jpg" class="news-image img-fluid" alt="">
+                                <img src="images/slide/slide7-thumb.jpg" class="news-image img-fluid" alt="">
                             </div>
                             <div class="news-block-title mb-2">
-                                <h4>Health Empowerment</h4>
+                                <h4>7 Pillars of Muciri Village</h4>
                             </div>
 
                             <div class="news-block-info">
 
                                 <div class="news-block-body justify-para">
-                                    <p>Muciri Village Project understands that Health Empowerment is critical to a
-                                        community's growth and success. We work hard to make sure that all residents
-                                        have access to high-quality healthcare and education. Our programmes promote
-                                        healthy lifestyles and disease prevention, and we work to raise community
-                                        awareness about prevalent health issues. We also provide resources and
-                                        information to assist individuals in making informed health decisions. We hope
-                                        to promote a healthier and more prosperous community by empowering individuals
-                                        to take control of their health. Muciri Village Project is dedicated to
-                                        promoting health empowerment and building a better future for all. </p>
+                                    <p>
+                                    <ul>
+                                        <li>Child Empowerment</li>
+                                        <li>Youth Empowerment.</li>
+                                        <ul>
+                                            <li>Women Development.</li>
+                                        </ul>
+                                        <li>Entrepreneurship Development.</li>
+                                        <li>Health Empowerment.</li>
+                                        <ul>
+                                            <li>Harmonious living.</li>
+                                            <li>Installation of open gyms.</li>
+                                        </ul>
+                                        <li>Resource Empowerment.</li>
+                                        <li>Technology for Society.</li>
+                                        <li>Skill Development.</li>
+                                    </ul>
+                                    </p>
 
                                 </div>
                             </div>
                         </div>
                     </div>
 
-                    <?php include('partials/seven-pillers.php') ?>
+                    <?php include('partials/banner-seven.php') ?>
 
                 </div>
             </div>
