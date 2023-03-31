@@ -4,7 +4,7 @@
             <div class="col-lg-8 col-12 d-flex flex-wrap">
                 <p class="d-flex me-4 mb-0">
                     <i class="bi-geo-alt me-2"></i>
-                    Akershusstranda 20, 0150 Oslo, Norway
+                    Vimala Building, Thrissur. Kerala, India.
                 </p>
 
                 <p class="d-flex mb-0">
@@ -17,28 +17,23 @@
             <div class="col-lg-3 col-12 ms-auto d-lg-block d-none">
                 <ul class="social-icon">
                     <li class="social-icon-item">
-                        <a href="https://twitter.com/mucirivillage" target="_blank"
-                            class="social-icon-link bi-twitter"></a>
+                        <a href="https://twitter.com/mucirivillage" target="_blank" class="social-icon-link bi-twitter"></a>
                     </li>
 
                     <li class="social-icon-item">
-                        <a href="https://www.facebook.com/mucirivillage" class="social-icon-link bi-facebook"
-                            target="_blank"></a>
+                        <a href="https://www.facebook.com/mucirivillage" class="social-icon-link bi-facebook" target="_blank"></a>
                     </li>
 
                     <li class="social-icon-item">
-                        <a href="https://www.instagram.com/mucirivillage/" class="social-icon-link bi-instagram"
-                            target="_blank"></a>
+                        <a href="https://www.instagram.com/mucirivillage/" class="social-icon-link bi-instagram" target="_blank"></a>
                     </li>
 
                     <li class="social-icon-item">
-                        <a href="https://www.youtube.com/@mucirivillage" target="_blank"
-                            class="social-icon-link bi-youtube"></a>
+                        <a href="https://www.youtube.com/@mucirivillage" target="_blank" class="social-icon-link bi-youtube"></a>
                     </li>
 
                     <li class="social-icon-item">
-                        <a href="https://www.linkedin.com/company/mucirivillage/about/"
-                            class="social-icon-link bi-linkedin" target="_blank"></a>
+                        <a href="https://www.linkedin.com/company/mucirivillage/about/" class="social-icon-link bi-linkedin" target="_blank"></a>
                     </li>
                 </ul>
             </div>
@@ -56,19 +51,18 @@
             </span>
         </a>
 
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
-            aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
 
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav ms-auto">
                 <li class="nav-item">
-                    <a class="nav-link click-scroll" href="#top">Home</a>
+                    <a class="nav-link click-scroll" href="index.php#top">Home</a>
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link click-scroll" href="#section_2">About</a>
+                    <a class="nav-link click-scroll" href="index.php#section_2">About</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="insights.php">Insights</a>

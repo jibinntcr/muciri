@@ -18,7 +18,7 @@
                     </li>
 
                     <li class="footer-menu-item">
-                        <a href="index.php#section_2" class="footer-menu-link">Projects</a>
+                        <a href="insights.php" class="footer-menu-link">Insights</a>
                     </li>
 
                     <!-- <li class="footer-menu-item">
@@ -37,8 +37,8 @@
                 <p class="text-white d-flex mb-2">
                     <i class="bi-telephone me-2"></i>
 
-                    <a href="tel: 305-240-9671" class="site-footer-link">
-                        305-240-9671
+                    <a href="tel: +91 89219 92710" class="site-footer-link">
+                        +91 89219 92710
                     </a>
                 </p>
 
@@ -52,7 +52,7 @@
 
                 <p class="text-white d-flex mt-3">
                     <i class="bi-geo-alt me-2"></i>
-                    Akershusstranda 20, 0150 Oslo, Norway
+                    Vimala Building, Thrissur. Kerala, India.
                 </p>
 
                 <!-- <a href="#" class="custom-btn btn mt-3">Get Direction</a> -->
@@ -77,18 +77,15 @@
                         </li> -->
 
                         <li class="social-icon-item">
-                            <a href="https://www.facebook.com/infinioglobal" target="_blank"
-                                class="social-icon-link bi-facebook"></a>
+                            <a href="https://www.facebook.com/infinioglobal" target="_blank" class="social-icon-link bi-facebook"></a>
                         </li>
 
                         <li class="social-icon-item">
-                            <a href="https://www.instagram.com/infiniotech/" target="_blank"
-                                class="social-icon-link bi-instagram"></a>
+                            <a href="https://www.instagram.com/infiniotech/" target="_blank" class="social-icon-link bi-instagram"></a>
                         </li>
 
                         <li class="social-icon-item">
-                            <a href="https://www.linkedin.com/company/74947102/" target="_blank"
-                                class="social-icon-link bi-linkedin"></a>
+                            <a href="https://www.linkedin.com/company/74947102/" target="_blank" class="social-icon-link bi-linkedin"></a>
                         </li>
 
                         <!-- <li class="social-icon-item">
