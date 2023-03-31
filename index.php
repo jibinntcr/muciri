@@ -108,12 +108,14 @@
 
                             </div>
 
-                            <button class="carousel-control-prev" type="button" data-bs-target="#hero-slide" data-bs-slide="prev">
+                            <button class="carousel-control-prev" type="button" data-bs-target="#hero-slide"
+                                data-bs-slide="prev">
                                 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                                 <span class="visually-hidden">Previous</span>
                             </button>
 
-                            <button class="carousel-control-next" type="button" data-bs-target="#hero-slide" data-bs-slide="next">
+                            <button class="carousel-control-next" type="button" data-bs-target="#hero-slide"
+                                data-bs-slide="next">
                                 <span class="carousel-control-next-icon" aria-hidden="true"></span>
                                 <span class="visually-hidden">Next</span>
                             </button>
@@ -224,7 +226,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6 col-12 mb-5 mb-lg-0">
-                        <img src="images/group-people-volunteering-foodbank-poor-people.jpg" class="custom-text-box-image img-fluid" alt="" />
+                        <img src="images/group-people-volunteering-foodbank-poor-people.jpg"
+                            class="custom-text-box-image img-fluid" alt="" />
                     </div>
 
                     <div class="col-lg-6 col-12">
@@ -303,7 +306,9 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6 col-md-5 col-12">
-                        <img style="height:435px !important ;" src="images/portrait-volunteer-who-organized-donations-charity.jpg" class="about-image ms-lg-auto bg-light shadow-lg img-fluid" alt="" />
+                        <img style="height:435px !important ;"
+                            src="images/portrait-volunteer-who-organized-donations-charity.jpg"
+                            class="about-image ms-lg-auto bg-light shadow-lg img-fluid" alt="" />
                     </div>
 
                     <div class="col-lg-5 col-md-7 col-12">
@@ -342,17 +347,18 @@
         <section class="cta-section section-padding section-bg">
             <div class="container">
                 <div class="row justify-content-center align-items-center">
-                    <div class="col-lg-5 col-12 ms-auto">
-                        <h2 class="mb-0">
-                            Make an impact. <br />
-                            Save lives.
+                    <div class="col-lg-10 col-12 ms-auto text-center">
+                        <h2 class="mb-3">
+                            “The soul of India lives in its villages”
                         </h2>
                     </div>
 
-                    <div class="col-lg-5 col-12">
-                        <a href="#" class="me-4">Make a donation</a>
+                    <div class="col-lg-2 col-12">
+                        <!-- <a href="#" class="me-4">Make a donation</a>
 
-                        <a href="#section_4" class="custom-btn btn smoothscroll">Become a volunteer</a>
+                        <a href="#section_4" class="custom-btn btn smoothscroll">Become a volunteer</a> -->
+                        <img class="center" style="width: 200px;" src="images/aec28bc3baa59134eca4e3f86574687b.png">
+
                     </div>
                 </div>
             </div>
@@ -369,7 +375,8 @@
 
                     <div class="col-lg-4 col-md-6 col-12 mb-4 mb-lg-0">
                         <div class="custom-block-wrap">
-                            <img src="images/causes/group-african-kids-paying-attention-class.jpg" class="custom-block-image img-fluid" alt="" />
+                            <img src="images/causes/group-african-kids-paying-attention-class.jpg"
+                                class="custom-block-image img-fluid" alt="" />
 
                             <div class="custom-block">
                                 <div class="custom-block-body">
@@ -405,7 +412,8 @@
 
                     <div class="col-lg-4 col-md-6 col-12 mb-4 mb-lg-0">
                         <div class="custom-block-wrap">
-                            <img src="images/causes/poor-child-landfill-looks-forward-with-hope.jpg" class="custom-block-image img-fluid" alt="" />
+                            <img src="images/causes/poor-child-landfill-looks-forward-with-hope.jpg"
+                                class="custom-block-image img-fluid" alt="" />
                             <div class="custom-block">
                                 <div class="custom-block-body">
                                     <h5 class="mb-3">Poverty Development</h5>
@@ -421,7 +429,8 @@
 
                     <div class="col-lg-4 col-md-6 col-12">
                         <div class="custom-block-wrap">
-                            <img src="images/causes/african-woman-pouring-water-recipient-outdoors.jpg" class="custom-block-image img-fluid" alt="" />
+                            <img src="images/causes/african-woman-pouring-water-recipient-outdoors.jpg"
+                                class="custom-block-image img-fluid" alt="" />
                             <div class="custom-block">
                                 <div class="custom-block-body">
                                     <h5 class="mb-3">Supply drinking water</h5>
@@ -617,7 +626,7 @@
             </div>
         </section> -->
 
-        <section class="testimonial-section section-padding section-bg">
+        <!-- <section class="testimonial-section section-padding section-bg">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-8 col-12 mx-auto">
@@ -695,7 +704,30 @@
                     </div>
                 </div>
             </div>
+        </section> -->
+
+
+
+        <section class="cta-section section-padding section-bg">
+            <div class="container">
+                <div class="row justify-content-center align-items-center">
+                    <div class="col-lg-10 col-12 ms-auto text-center">
+                        <h2 class="mb-3">
+                            “Village development requires out of the box thinking”
+                        </h2>
+                    </div>
+
+                    <div class="col-lg-2 col-12">
+                        <!-- <a href="#" class="me-4">Make a donation</a>
+
+                        <a href="#section_4" class="custom-btn btn smoothscroll">Become a volunteer</a> -->
+                        <img class="center" style="width: 200px;" src="images/apj.png">
+
+                    </div>
+                </div>
+            </div>
         </section>
+
 
         <section class="contact-section section-padding" id="section_6">
             <div class="container">
@@ -705,7 +737,8 @@
                             <h2>Get in touch</h2>
 
                             <div class="contact-image-wrap d-flex flex-wrap">
-                                <img src="images/avatar/pretty-blonde-woman-wearing-white-t-shirt.jpg" class="img-fluid avatar-image" alt="" />
+                                <img src="images/avatar/pretty-blonde-woman-wearing-white-t-shirt.jpg"
+                                    class="img-fluid avatar-image" alt="" />
 
                                 <div class="d-flex flex-column justify-content-center ms-3">
                                     <p class="mb-0">Clara Barton</p>
@@ -748,17 +781,21 @@
                             </p>
                             <div class="row">
                                 <div class="col-lg-6 col-md-6 col-12">
-                                    <input type="text" name="first-name" id="first-name" class="form-control" placeholder="Jack" required />
+                                    <input type="text" name="first-name" id="first-name" class="form-control"
+                                        placeholder="Jack" required />
                                 </div>
 
                                 <div class="col-lg-6 col-md-6 col-12">
-                                    <input type="text" name="last-name" id="last-name" class="form-control" placeholder="Doe" required />
+                                    <input type="text" name="last-name" id="last-name" class="form-control"
+                                        placeholder="Doe" required />
                                 </div>
                             </div>
 
-                            <input type="email" name="email" id="email" pattern="[^ @]*@[^ @]*" class="form-control" placeholder="Jackdoe@gmail.com" required />
+                            <input type="email" name="email" id="email" pattern="[^ @]*@[^ @]*" class="form-control"
+                                placeholder="Jackdoe@gmail.com" required />
 
-                            <textarea name="message" rows="5" class="form-control" id="message" placeholder="What can we help you?"></textarea>
+                            <textarea name="message" rows="5" class="form-control" id="message"
+                                placeholder="What can we help you?"></textarea>
 
                             <button type="submit" class="form-control">Send Message</button>
                         </form>
