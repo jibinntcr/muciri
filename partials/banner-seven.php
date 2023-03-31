@@ -1,6 +1,6 @@
 <div class="pl-10 col-lg-5 col-12 mx-auto mt-lg-0">
 
-    <h5 class=" mb-3">7 Pillars of Muciri Village</h5>
+    <h5 class=" mb-3">From Ancient Origins to Modern Reality</h5>
 
     <div class="news-block news-block-two-col d-flex mt-4">
         <div class="news-block-two-col-image-wrap">

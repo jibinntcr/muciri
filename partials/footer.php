@@ -2,33 +2,33 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-3 col-12 mb-4">
-                <img src="images/footer-logo.png" class="logo img-fluid" alt="" />
+                <img src="images/footer-logo.png" class="logo img-fluid" style="width: 133px !important;" alt="" />
             </div>
 
             <div class="col-lg-4 col-md-6 col-12 mb-4">
                 <h5 class="site-footer-title mb-3">Quick Links</h5>
 
-                <!-- <ul class="footer-menu">
+                <ul class="footer-menu">
                     <li class="footer-menu-item">
-                        <a href="#" class="footer-menu-link">Our Story</a>
+                        <a href="index.php#top" class="footer-menu-link">Home</a>
                     </li>
 
                     <li class="footer-menu-item">
-                        <a href="#" class="footer-menu-link">Newsroom</a>
+                        <a href="index.php#section_2" class="footer-menu-link">About</a>
                     </li>
 
                     <li class="footer-menu-item">
-                        <a href="#" class="footer-menu-link">Causes</a>
+                        <a href="index.php#section_2" class="footer-menu-link">Projects</a>
                     </li>
 
-                    <li class="footer-menu-item">
+                    <!-- <li class="footer-menu-item">
                         <a href="#" class="footer-menu-link">Become a volunteer</a>
                     </li>
 
                     <li class="footer-menu-item">
                         <a href="#" class="footer-menu-link">Partner with us</a>
-                    </li>
-                </ul> -->
+                    </li> -->
+                </ul>
             </div>
 
             <div class="col-lg-4 col-md-6 col-12 mx-auto">
@@ -45,8 +45,8 @@
                 <p class="text-white d-flex">
                     <i class="bi-envelope me-2"></i>
 
-                    <a href="mailto:info@yourgmail.com" class="site-footer-link">
-                        donate@charity.org
+                    <a href="mailto:mucirivillage@gmail.com" class="site-footer-link">
+                        mucirivillage@gmail.com
                     </a>
                 </p>
 
@@ -55,7 +55,7 @@
                     Akershusstranda 20, 0150 Oslo, Norway
                 </p>
 
-                <a href="#" class="custom-btn btn mt-3">Get Direction</a>
+                <!-- <a href="#" class="custom-btn btn mt-3">Get Direction</a> -->
             </div>
         </div>
     </div>
@@ -72,25 +72,28 @@
 
                 <div class="col-lg-6 col-md-5 col-12 d-flex justify-content-center align-items-center mx-auto">
                     <ul class="social-icon">
-                        <li class="social-icon-item">
+                        <!-- <li class="social-icon-item">
                             <a href="#" class="social-icon-link bi-twitter"></a>
+                        </li> -->
+
+                        <li class="social-icon-item">
+                            <a href="https://www.facebook.com/infinioglobal" target="_blank"
+                                class="social-icon-link bi-facebook"></a>
                         </li>
 
                         <li class="social-icon-item">
-                            <a href="#" class="social-icon-link bi-facebook"></a>
+                            <a href="https://www.instagram.com/infiniotech/" target="_blank"
+                                class="social-icon-link bi-instagram"></a>
                         </li>
 
                         <li class="social-icon-item">
-                            <a href="#" class="social-icon-link bi-instagram"></a>
+                            <a href="https://www.linkedin.com/company/74947102/" target="_blank"
+                                class="social-icon-link bi-linkedin"></a>
                         </li>
 
-                        <li class="social-icon-item">
-                            <a href="#" class="social-icon-link bi-linkedin"></a>
-                        </li>
-
-                        <li class="social-icon-item">
+                        <!-- <li class="social-icon-item">
                             <a href="https://youtube.com/templatemo" class="social-icon-link bi-youtube"></a>
-                        </li>
+                        </li> -->
                     </ul>
                 </div>
             </div>

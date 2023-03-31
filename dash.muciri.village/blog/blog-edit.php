@@ -52,7 +52,7 @@ if (strlen($_SESSION['alogin']) == 0) {
             $category = $_POST['category'];
             $authername = $_POST['autherName'];
 
-            $folder = '../uploads/';
+            $folder = '../../uploads/';
             $file = $folder . basename($_FILES["thumb"]["name"]);
             move_uploaded_file($_FILES['thumb']['tmp_name'], $file);
             $thumb = basename($_FILES["thumb"]["name"]);
@@ -84,7 +84,7 @@ if (strlen($_SESSION['alogin']) == 0) {
             $content = $_POST['content'];
             $authername = $_POST['autherName'];
 
-            $folder = '../uploads/';
+            $folder = '../../uploads/';
 
             $file = $folder . basename($_FILES["thumb"]["name"]);
             move_uploaded_file($_FILES['thumb']['tmp_name'], $file);
@@ -114,7 +114,7 @@ if (strlen($_SESSION['alogin']) == 0) {
             $content = $_POST['content'];
             $authername = $_POST['autherName'];
 
-            $folder = '../uploads/';
+            $folder = '../../uploads/';
 
             $file2 = $folder . basename($_FILES["blogimg"]["name"]);
             move_uploaded_file($_FILES['blogimg']['tmp_name'], $file2);

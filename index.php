@@ -1,3 +1,5 @@
+<?php include('dash.muciri.village/includes/config.php') ?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -370,80 +372,39 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 col-12 text-center mb-4">
-                        <h2>Our Projects</h2>
+                        <h2>Insights</h2>
                     </div>
+                    <?php
+                    $cnt = 1;
+                    $sql = "SELECT * from blog ORDER BY `blog`.`date` DESC LIMIT 3;";
+                    $query = $dbh->prepare($sql);
+                    $query->execute();
+                    $results = $query->fetchAll(PDO::FETCH_OBJ);
+
+                    if ($query->rowCount() > 0) {
+                        foreach ($results as $result) {
+                    ?>
 
                     <div class="col-lg-4 col-md-6 col-12 mb-4 mb-lg-0">
                         <div class="custom-block-wrap">
-                            <img src="images/causes/group-african-kids-paying-attention-class.jpg"
-                                class="custom-block-image img-fluid" alt="" />
+                            <img src="uploads/<?php echo $result->image ?>" class="custom-block-image img-fluid"
+                                alt="" />
 
                             <div class="custom-block">
                                 <div class="custom-block-body">
-                                    <h5 class="mb-3">Children Education</h5>
-
-                                    <p>
-                                        Lorem Ipsum dolor sit amet, consectetur adipsicing kengan
-                                        omeg kohm tokito
-                                    </p>
-
-                                    <!-- <div class="progress mt-4">
-                                        <div class="progress-bar w-75" role="progressbar" aria-valuenow="75"
-                                            aria-valuemin="0" aria-valuemax="100"></div>
-                                    </div> -->
-
-                                    <!-- <div class="d-flex align-items-center my-2">
-                                        <p class="mb-0">
-                                            <strong>Raised:</strong>
-                                            $18,500
-                                        </p>
-
-                                        <p class="ms-auto mb-0">
-                                            <strong>Goal:</strong>
-                                            $32,000
-                                        </p>
-                                    </div> -->
+                                    <h5 class="mb-3"><?php
+                                                                $title =  substr($result->title, 0, 65);
+                                                                echo $title ?>...</h5>
                                 </div>
 
-                                <a href="donate.html" class="custom-btn btn">Read More</a>
+                                <a href="insight.php?slug=<?php echo $result->slug ?>" class="custom-btn btn">Read
+                                    More</a>
                             </div>
                         </div>
                     </div>
+                    <?php }
+                    } ?>
 
-                    <div class="col-lg-4 col-md-6 col-12 mb-4 mb-lg-0">
-                        <div class="custom-block-wrap">
-                            <img src="images/causes/poor-child-landfill-looks-forward-with-hope.jpg"
-                                class="custom-block-image img-fluid" alt="" />
-                            <div class="custom-block">
-                                <div class="custom-block-body">
-                                    <h5 class="mb-3">Poverty Development</h5>
-                                    <p>
-                                        Sed leo nisl, posuere at molestie ac, suscipit auctor
-                                        mauris. Etiam quis metus tempor
-                                    </p>
-                                </div>
-                                <a href="donate.html" class="custom-btn btn">Read More</a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 col-12">
-                        <div class="custom-block-wrap">
-                            <img src="images/causes/african-woman-pouring-water-recipient-outdoors.jpg"
-                                class="custom-block-image img-fluid" alt="" />
-                            <div class="custom-block">
-                                <div class="custom-block-body">
-                                    <h5 class="mb-3">Supply drinking water</h5>
-                                    <p>
-                                        Orci varius natoque penatibus et magnis dis parturient
-                                        montes, nascetur ridiculus
-                                    </p>
-                                </div>
-
-                                <a href="donate.html" class="custom-btn btn">Read More</a>
-                            </div>
-                        </div>
-                    </div>
                 </div>
             </div>
         </section>
@@ -729,7 +690,7 @@
         </section>
 
 
-        <section class="contact-section section-padding" id="section_6">
+        <!-- <section class="contact-section section-padding" id="section_6">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-4 col-12 ms-auto mb-5 mb-lg-0">
@@ -772,37 +733,11 @@
                     </div>
 
                     <div class="col-lg-5 col-12 mx-auto">
-                        <form class="custom-form contact-form" action="#" method="post" role="form">
-                            <h2>Contact form</h2>
-
-                            <p class="mb-4">
-                                Or, you can just send an email:
-                                <a href="#">info@charity.org</a>
-                            </p>
-                            <div class="row">
-                                <div class="col-lg-6 col-md-6 col-12">
-                                    <input type="text" name="first-name" id="first-name" class="form-control"
-                                        placeholder="Jack" required />
-                                </div>
-
-                                <div class="col-lg-6 col-md-6 col-12">
-                                    <input type="text" name="last-name" id="last-name" class="form-control"
-                                        placeholder="Doe" required />
-                                </div>
-                            </div>
-
-                            <input type="email" name="email" id="email" pattern="[^ @]*@[^ @]*" class="form-control"
-                                placeholder="Jackdoe@gmail.com" required />
-
-                            <textarea name="message" rows="5" class="form-control" id="message"
-                                placeholder="What can we help you?"></textarea>
-
-                            <button type="submit" class="form-control">Send Message</button>
-                        </form>
+                        <img src="images/portrait-volunteer-who-organized-donations-charity.jpg">
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
     </main>
 
     <?php include('partials/footer.php') ?>
