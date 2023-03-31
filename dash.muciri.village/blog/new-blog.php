@@ -112,11 +112,11 @@ if (strlen($_SESSION['alogin']) == 0) {
                                 </div>
                                 <div class="form-row">
                                     <div class="form-group col-md-6">
-                                        <label for="inputEmail4">Thumbnail (600 x 600 px)</label>
+                                        <label for="inputEmail4">Thumbnail (1920x1280 px)</label>
                                         <input type="file" class="form-control" id="thumb" name="thumb" accept="image/gif, image/png, image/jpg, image/jpeg" required>
                                     </div>
                                     <div class="form-group col-md-6">
-                                        <label for="inputPassword4">Blog Image (1440 x 700 px)</label>
+                                        <label for="inputPassword4">Blog Image (1920x1280 px)</label>
                                         <input type="file" class="form-control" id="blogimg" name="blogimg" accept="image/gif, image/png, image/jpg, image/jpeg" required>
                                     </div>
                                 </div>
