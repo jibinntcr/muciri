@@ -4,7 +4,7 @@
 
     <div class="news-block news-block-two-col d-flex mt-4">
         <div class="news-block-two-col-image-wrap">
-            <a href="news-detail.html">
+            <a href="child-empowerment.php">
                 <img src="images/news/child.jpg" class="news-image img-fluid" alt="">
             </a>
         </div>
@@ -19,7 +19,7 @@
 
     <div class="news-block news-block-two-col d-flex mt-4">
         <div class="news-block-two-col-image-wrap">
-            <a href="news-detail.html">
+            <a href="youth-empowerment.php">
                 <img src="images/news/youth.jpg" class="news-image img-fluid" alt="">
             </a>
         </div>
@@ -32,7 +32,7 @@
     </div>
     <div class="news-block news-block-two-col d-flex mt-4">
         <div class="news-block-two-col-image-wrap">
-            <a href="news-detail.html">
+            <a href="entrepreneurship-development.php">
                 <img src="images/news/startup.jpg" class="news-image img-fluid" alt="">
             </a>
         </div>
@@ -47,7 +47,7 @@
     </div>
     <div class="news-block news-block-two-col d-flex mt-4">
         <div class="news-block-two-col-image-wrap">
-            <a href="news-detail.html">
+            <a href="health-empowerment.php">
                 <img src="images/news/health.jpg" class="news-image img-fluid" alt="">
             </a>
         </div>
@@ -61,7 +61,7 @@
     </div>
     <div class="news-block news-block-two-col d-flex mt-4">
         <div class="news-block-two-col-image-wrap">
-            <a href="news-detail.html">
+            <a href="resource-empowerment.php">
                 <img src="images/news/resourse.jpg" class="news-image img-fluid" alt="">
             </a>
         </div>
@@ -75,7 +75,7 @@
     </div>
     <div class="news-block news-block-two-col d-flex mt-4">
         <div class="news-block-two-col-image-wrap">
-            <a href="news-detail.html">
+            <a href="technology-for-society.php">
                 <img src="images/news/technology.jpg" class="news-image img-fluid" alt="">
             </a>
         </div>
@@ -90,7 +90,7 @@
     </div>
     <div class="news-block news-block-two-col d-flex mt-4">
         <div class="news-block-two-col-image-wrap">
-            <a href="news-detail.html">
+            <a href="skill-development.php">
                 <img src="images/news/skill.jpg" class="news-image img-fluid" alt="">
             </a>
         </div>
