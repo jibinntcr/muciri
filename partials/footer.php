@@ -52,7 +52,7 @@
 
                 <p class="text-white d-flex mt-3">
                     <i class="bi-geo-alt me-2"></i>
-                    Vimala Building, Thrissur. Kerala, India.
+                    Thrissur. Kerala, India.
                 </p>
 
                 <!-- <a href="#" class="custom-btn btn mt-3">Get Direction</a> -->
