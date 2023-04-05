@@ -4,7 +4,7 @@
             <div class="col-lg-8 col-12 d-flex flex-wrap">
                 <p class="d-flex me-4 mb-0">
                     <i class="bi-geo-alt me-2"></i>
-                    Vimala Building, Thrissur. Kerala, India.
+                    Thrissur. Kerala, India.
                 </p>
 
                 <p class="d-flex mb-0">
